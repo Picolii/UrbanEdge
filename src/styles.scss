@@ -1,1 +1,22 @@
-/* You can add global styles to this file, and also import other style files */
+@use 'devextreme/scss/bundles/dx.carmine.scss';
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  --primary: #ebeff2;
+  --secondary: #fafafa;
+  --terciary: #e6e8eb;
+
+  --text: #323135;
+
+  --card: #fff;
+
+  --white: #fafafa;
+  --black: #030303;
+  --gray: #bfbfbf;
+
+  --logo:  url(./assets/logo/LogoPronta.svg);
+
+}
