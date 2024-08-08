@@ -3,6 +3,7 @@
         "Cabeçalho",
         "devextreme",
         "iconify",
+        "tailwindcss",
         "Teste"
     ],
     "iconifySearch.codeType": "tailwindcss",
